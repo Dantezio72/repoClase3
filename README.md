@@ -11,3 +11,7 @@ Algun dia mi genialidad sera comprendida.
 Este va a estar en ***negrita***
 
 Referencia: https://markdown.es/
+
+>Forma de commit 
+
+<img src="img/commit.jpg">
