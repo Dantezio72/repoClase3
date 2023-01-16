@@ -38,3 +38,26 @@ header a img {
     vertical-align: middle;
     margin-right: 12px;
 }
+
+
+#hero-banner {
+    height: 500px;
+    background-image: url(../img/hero-banner-2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 0 center;
+    /* horiz vertical */
+
+    display: flex;
+    align-items: center;
+
+    margin-bottom: 62px;
+}
+
+h1 {
+    margin-left: 62px;
+    font-size: 32px;
+    /* Grosor o espesor de la tipografia */
+    font-weight: 600;
+    color: white;
+}
